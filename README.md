@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/zkhan122/zkhan122/blob/main/assets/vagabond.jpg?raw=true" alt="Vagabond" />
+  <img src="https://github.com/zkhan122/zkhan122/blob/main/assets/vagabond.jpg?raw=true" alt="Vagabond" width="300/>
 </p>
